@@ -1,4 +1,4 @@
-package com.luk.test01.test01_model;
+package com.luk.test01.test01_xmlDemo;
 
 /**
  * Hello world!
